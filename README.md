@@ -35,6 +35,8 @@ O projeto foi desenvolvido com design responsivo, adaptando-se para diferentes t
 - Texto em branco para boa legibilidade.
 
 ## 💻 **Como Executar o Projeto**
+Vercel: https://decodificadormari.vercel.app/
+                     ou
 1. Clone este repositório:
 
    ```bash
@@ -51,5 +53,5 @@ Implementar suporte a diferentes tipos de criptografia.
 ## 📚 **Curso Alura**
 Este projeto faz parte do curso Oracle Next Education (ONE) oferecido pela Alura. O curso é focado em desenvolvimento web e outras tecnologias modernas.
 
-##🙋‍♀️ **Autora**
+## 🙋‍♀️ **Autora**
 Feito com 💜 por Maria.
